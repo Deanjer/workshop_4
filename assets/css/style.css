@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+img {
+    width: 60px;
+}
+#schaakbord {
+    width: 484px;
+    border: 2px solid black;
+    height: 484px; 
+    padding-left: 3px;
+    padding-top: 3px;
+}
+.wit {
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    margin-top: -3px; 
+    margin-left: -3px;  
+}
+.grijs {
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    background-color: #777777;
+     margin-top: -3px;    
+     margin-left: -3px; 
+   
+    
+}
